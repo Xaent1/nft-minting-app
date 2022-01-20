@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd4123b7b726639e2f58c5a1e3247ba7ab0fba1d4",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd4123b7b726639e2f58c5a1e3247ba7ab0fba1d4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crocodile Mafia Pixel",
+  "SYMBOL": "CMP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crocodile-mafia-pixel",
+  "SHOW_BACKGROUND": true
+}
